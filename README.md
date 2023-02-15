@@ -1,1 +1,1 @@
-starting system engineering
+Display the contents list of your current directory
